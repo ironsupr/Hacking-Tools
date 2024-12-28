@@ -28,7 +28,7 @@ private
 2. **Run the Script**: Open a terminal or command prompt and navigate to the directory where the script is located. Then, run the script with:
 
 ```bash
-python directory_bruteforce.py
+python Directories.py
 ```
 
 3. **Provide Inputs**: 
