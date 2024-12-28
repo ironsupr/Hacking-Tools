@@ -1,0 +1,1 @@
+This repository contains a collection of custom tools and scripts that I've developed while learning ethical hacking and cybersecurity. This repo serves as a personal learning project and a resource for anyone interested in the ethical hacking community. The tools are intended for educational purposes only.
