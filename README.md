@@ -23,7 +23,7 @@ pip install requests termcolor
    After making sure you have installed the required libraries, run the script:
 
    ```bash
-   python brute_force_login.py
+   python Bruteforce.py
    ```
 
 2. **Provide Inputs**:
