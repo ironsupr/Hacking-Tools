@@ -18,14 +18,14 @@ pip install termcolor
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/port-scanner.git
-   cd port-scanner
+   git clone https://github.com/ironsupr/Hacking-Tools/tree/main/Portscanner
+   cd Portscanner
    ```
 
 2. **Run the Script**:
 
    ```bash
-   python port_scanner.py
+   python Portscanner.py
    ```
 
 3. **Provide Inputs**:
