@@ -1,7 +1,3 @@
-Here's a simple README file for the script you provided, explaining how to use it:
-
----
-
 # Directory Brute-Forcer
 
 This is a simple Python script to discover hidden directories in a target website by making requests to each directory listed in a file. It helps security researchers and ethical hackers identify potential unlisted directories on a website.
